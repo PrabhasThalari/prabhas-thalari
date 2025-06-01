@@ -170,7 +170,9 @@ img {
     font-weight: 700;
     color: var(--blue);
 }
-
+#logo-color{
+    color:#3256a8;
+}
 .logo span {
     color: var(--primary);
 }
